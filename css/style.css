@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Danfo&display=swap');
+body{
+    background-image: url("/img/background.jpg");
+    background-position: center;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+h1{
+    background-color: blue; color: antiquewhite; text-align: center;
+    font-family: "Danfo", serif;
+}
+p{
+    background-color: rgb(217, 255, 0); color: rgb(5, 0, 7); 
+    font-family: "Dancing Script", cursive;
+}
